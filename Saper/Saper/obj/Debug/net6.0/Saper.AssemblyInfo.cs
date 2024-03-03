@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Saper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b226883998fbe857cb081101e437f2e143210ee8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b603fa7aaaa0cf1fa119860b92c4032e897888ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Saper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Saper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
