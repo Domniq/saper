@@ -1,8 +1,4 @@
-﻿using System;
-
-
-
-class Program
+﻿class Program
 
 {
 
@@ -363,7 +359,7 @@ class Program
 
 
 
-        return uncoveredCount == /* ??*/ *height - bombCount;
+        return uncoveredCount == /* ??*/ height - bombCount;
 
     }
 
