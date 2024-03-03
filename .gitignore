@@ -396,3 +396,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Saper/Saper/obj/Debug/net6.0/Saper.sourcelink.json
+/Saper/.vs/Saper/v17/.suo
+/Saper/.vs/Saper/v17/DocumentLayout.json
+/Saper/Saper/bin/Debug/net6.0/Saper.exe
+/Saper/Saper/bin/Debug/net6.0/Saper.pdb
+/Saper/Saper/bin/Debug/net6.0/Saper.dll
+/Saper/Saper/obj/Debug/net6.0/ref/Saper.dll
+/Saper/Saper/obj/Debug/net6.0/refint/Saper.dll
+/Saper/Saper/obj/Debug/net6.0/apphost.exe
+/Saper/Saper/obj/Debug/net6.0/Saper.AssemblyInfo.cs
+/Saper/Saper/obj/Debug/net6.0/Saper.AssemblyInfoInputs.cache
+/Saper/Saper/obj/Debug/net6.0/Saper.dll
+/Saper/Saper/obj/Debug/net6.0/Saper.pdb
